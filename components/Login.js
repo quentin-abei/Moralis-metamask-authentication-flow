@@ -1,4 +1,3 @@
-
 import Image from "next/image";
 import {useMoralis} from "react-moralis";
 
@@ -7,7 +6,6 @@ function Login() {
 
     return(
         <div className="bg-black relative">
-           <h1>Login Page</h1> 
            <div className="flex flex-col absolute 
            z-50 h-4/6 items-center
            w-full justify-center space-y-4">
